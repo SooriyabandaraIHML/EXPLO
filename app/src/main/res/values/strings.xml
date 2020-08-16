@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">My project</string>
+    <string name="travel_organize_form">Travel Organize Form</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_phone_no">Enter Phone No</string>
+    <string name="enter_travel_place">Enter Travel place</string>
+    <string name="enter_transpotation_mode">Enter Transpotation Mode</string>
+    <string name="select_budget">Select Budget</string>
+    <string name="selected_duration">Selected Duration</string>
+    <string name="enter_description_about_your_health_condition">Enter Description About Your Health Condition</string>
+    <string name="submit">Submit</string>
+    <string name="explo">EXPLO</string>
+    <string name="submit2">submit</string>
+    <string name="submitted_informations">Submitted Informations</string>
+    <string name="explo2">EXPLO</string>
+    <string name="full_name2">Full Name</string>
+    <string name="email2">Email</string>
+    <string name="phone_number1">Phone Number</string>
+    <string name="travel_place2">Travel Place</string>
+    <string name="transpotation_mode2">Transpotation Mode</string>
+    <string name="budget2">Budget</string>
+    <string name="duration2">Duration</string>
+    <string name="description_about_health_condition2">Description about Health condition</string>
+    <string name="edit2">Edit</string>
+    <string name="inserted_full_name3">Inserted Full Name</string>
+    <string name="edit_information_form">Edit information Form</string>
+    <string name="inserted_email3">Inserted Email</string>
+    <string name="inserted_phone_no3">Inserted Phone No</string>
+    <string name="inserted_travel_place3">Inserted Travel place</string>
+    <string name="inserted_transpotation_mode3">Inserted Transpotation Mode</string>
+    <string name="are_you_sure_to_edit">Are You Sure to edit?</string>
+    <string name="yes1">Yes</string>
+    <string name="cancel1">cancel</string>
+    <string name="selected_duration3">Selected Duration</string>
+    <string name="selected_budget3">Selected Budget</string>
+    <string name="inserted_description_about_your_health_condition3">Inserted Description About your Health Condition</string>
+    <string name="explo3">EXPLO</string>
+    <string name="explo4">EXPLO</string>
+    <string name="submited_successfully">Submited Successfully !</string>
+    <string name="thankyou_for_your_submission_we_hope_you_will_enjoy_your_trip">Thankyou for your submission we hope you will enjoy your trip.</string>
+    <string name="ok4">ok</string>
+
+
+</resources>
