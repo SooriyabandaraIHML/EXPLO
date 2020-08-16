@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Travelling app</string>
+
+    <string name="type1">meals</string>
+    <string name="type2">transportation</string>
+    <string name="type3">hotel</string>
+
+    <string name="total">Total</string>
+
+    <string name="methodTitle">Select payment method</string>
+
+    <string name="method1">Credit/Debit Card</string>
+    <string name="method2">Pay after arriving</string>
+
+    <string name="paybtn">Pay Now</string>
+
+    <string name="cardNumber">Card Number</string>
+    <string name="name">Name</string>
+    <string name="expiration">Expiration</string>
+    <string name="cvv">CVV</string>
+
+    <string name="payText">An e-mail will be sent to your e-mail
+        address. Please take a printed copy of that e-mail with
+        you when you are arriving and remember to get your bill
+        after paying.</string>
+
+    <string name="confirmbtn">Confirm</string>
+
+</resources>
+
+
+
+
+
